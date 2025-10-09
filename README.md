@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0013-roman-to-integer) |
 | [1642-water-bottles](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3336-water-bottles-ii) |
 ## Simulation
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
