@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0027-remove-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3226-minimum-number-game](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3226-minimum-number-game) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0027-remove-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
