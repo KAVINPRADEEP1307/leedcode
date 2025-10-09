@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0027-remove-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3226-minimum-number-game](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3226-minimum-number-game) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0027-remove-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
