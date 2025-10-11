@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0027-remove-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3226-minimum-number-game](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3226-minimum-number-game) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
@@ -29,15 +30,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0027-remove-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3226-minimum-number-game](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3226-minimum-number-game) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -50,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0013-roman-to-integer) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
@@ -72,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+## Counting
+|  |
+| ------- |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 <!---LeetCode Topics End-->
