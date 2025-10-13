@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1642-water-bottles) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3321-type-of-triangle](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3321-type-of-triangle) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1642-water-bottles) |
 | [3226-minimum-number-game](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3336-water-bottles-ii) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
