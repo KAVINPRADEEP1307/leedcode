@@ -119,4 +119,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0258-add-digits) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
