@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0742-to-lower-case](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0742-to-lower-case) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
