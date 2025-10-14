@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3194-find-words-containing-character](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3194-find-words-containing-character](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3194-find-words-containing-character) |
 ## Trie
 |  |
 | ------- |
