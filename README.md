@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1791-richest-customer-wealth](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1791-richest-customer-wealth) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1610-xor-operation-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
