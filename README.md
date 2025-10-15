@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0258-add-digits) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1642-water-bottles](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1642-water-bottles) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
