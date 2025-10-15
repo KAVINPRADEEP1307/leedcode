@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3336-water-bottles-ii) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
