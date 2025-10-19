@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0742-to-lower-case) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -153,10 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0100-same-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0100-same-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
 |  |
 | ------- |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
