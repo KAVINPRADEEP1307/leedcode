@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -192,4 +196,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 <!---LeetCode Topics End-->
