@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3226-minimum-number-game](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3336-water-bottles-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
