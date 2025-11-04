@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3226-minimum-number-game) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 <!---LeetCode Topics End-->
