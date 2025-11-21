@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/1610-xor-operation-in-an-array) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/KAVINPRADEEP1307/leedcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
 | ------- |
